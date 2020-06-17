@@ -62,6 +62,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="resetButton" destination="d2L-1E-b3W" id="fVF-kg-bec"/>
+                        <outlet property="startButton" destination="2ZP-46-uo6" id="Ad9-XR-iz8"/>
+                        <outlet property="stopButton" destination="C19-p4-9g4" id="ps5-34-93A"/>
                         <outlet property="timerLabel" destination="ufA-nv-RHG" id="jXW-0c-nXU"/>
                     </connections>
                 </viewController>
